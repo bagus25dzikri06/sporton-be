@@ -24,5 +24,15 @@ SportOn is an Express project designed to manage an online-based sport shop
 - @types/jsonwebtoken 9.0.10
 
 ## Modules
-- Admin Login Module
-- Admin Initiation Module
+- Admin Login Module (`/api/auth/login`)
+- Admin Initiation Module (`/api/auth/initiate-admin-user`)
+- Create Category Module (`/api/categories`)
+- Read All Categories Module (`/api/categories`)
+- Read Category Module Based By ID (`/api/categories/${id}`)
+- Update Category Module (`/api/categories/${id}`)
+- Delete Category Module (`/api/categories/${id}`)
+- Create Product Module (`/api/products`)
+- Read All Products Module (`/api/products`)
+- Read Product Module Based By ID (`/api/products/${id}`)
+- Update Product Module (`/api/products/${id}`)
+- Delete Product Module (`/api/products/${id}`)
